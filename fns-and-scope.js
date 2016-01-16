@@ -54,13 +54,7 @@ var name = 'Tyler';
 
 
   //Answer Here
-  "false;
-  NaN;
-  null;
-  undefined;
-  0;
-  '';
-  if ()"
+  "false, NaN,null,undefined,0,'', if ()"
 
 
 
